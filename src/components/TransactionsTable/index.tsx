@@ -1,7 +1,15 @@
 
+import { useEffect } from "react";
+import { api } from "../../services/api";
 import { Container } from "./styles";
 
 export function TransitionTable() {
+
+    useEffect(() => {
+        api.get('transaction')
+            .then(response => console.log(response.data))
+    }, [])
+
     return (
         <Container>
             <table>
