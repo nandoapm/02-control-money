@@ -5,16 +5,16 @@ export const Container = styled.header`
 `;
 
 export const Content = styled.div`
-    max-width: 1120px;
+    max-width: 1000px;
     margin: 0 auto;
     
-    padding: 2rem 1rem 12rem;
+    padding: 2rem 1rem 10rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
 
     button {
-        font-size: 1rem;
+        font-size: 0.8rem;
         color: var(--green-dark);
         background: var(--shape);
         border: 0;
@@ -24,7 +24,7 @@ export const Content = styled.div`
         transition: filter 0.2s;
         
         &:hover {
-        filter: brightness(0.9)
+            filter: brightness(0.9)
         }
     
     }

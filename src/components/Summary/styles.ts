@@ -4,11 +4,11 @@ export const Container = styled.div`
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
-    margin-top: -8rem;
+    margin-top: -6rem;
 
     div {
         background: var(--shape);
-        padding: 1.5rem 2rem;
+        padding: 0.5rem 1rem;
         border-radius: 0.25rem;
         color: var(--text-title);
 
@@ -21,7 +21,7 @@ export const Container = styled.div`
         strong {
             display: block; //strong vem por padrão display: inline
             margin-top: 1rem;
-            font-size: 2rem;
+            font-size: 1.7rem;
             font-weight: 500;
             line-height: 3rem;
         }
