@@ -1,4 +1,4 @@
-# Project => Control Money
+# Project Control Money
 
 Projects for controlling financial inputs and outputs.
 
@@ -8,7 +8,7 @@ Project created in ReactJS using hooks and typescript, using good programming pr
 
 # Screens
 
-<img src="C:\Users\Neomode Dev\Desktop\screenshot\desktop-01.jpg" >
+<img src="C:\Users\Neomode Dev\Desktop\screenshot\img-4.png" >
 
 ## Available Scripts
 
