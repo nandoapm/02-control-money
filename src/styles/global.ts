@@ -99,4 +99,11 @@ export const GlobalStyle = createGlobalStyle`
             filter: brightness(0.9)
         }
     }
+
+    @media (max-width: 720px) {
+        .react-modal-content {
+            max-width: 300px;
+            padding: 1rem;
+        }
+    }
 `

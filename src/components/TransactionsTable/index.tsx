@@ -8,7 +8,7 @@ export function TransitionTable() {
 
     return (
         <Container>
-            <table>
+            <table className="table">
                 <thead>
                     <tr>
                         <th>Titulo</th>

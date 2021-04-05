@@ -7,7 +7,6 @@ export const Container = styled.header`
 export const Content = styled.div`
     max-width: 1000px;
     margin: 0 auto;
-    
     padding: 2rem 1rem 10rem;
     display: flex;
     align-items: center;
@@ -27,6 +26,16 @@ export const Content = styled.div`
             filter: brightness(0.9)
         }
     
+    }
+
+    @media (max-width: 720px) {
+        display: flex;
+        flex-direction: column;
+        padding: 2rem 1rem 6rem;
+        button {
+            margin-top: 1.5rem;
+            width: 100%;
+        }
     }
     
 `;
