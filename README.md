@@ -8,7 +8,10 @@ Project created in ReactJS using hooks and typescript, using good programming pr
 
 # Screens
 
-<img src="C:\Users\Neomode Dev\Desktop\screenshot\img-4.png" >
+![desktop-01](https://user-images.githubusercontent.com/37562263/113528184-3f072d00-9596-11eb-9431-16bd1160c643.jpg)
+![desktop-02](https://user-images.githubusercontent.com/37562263/113528195-44fd0e00-9596-11eb-90e1-572e24734fda.jpg)
+![mobile-01](https://user-images.githubusercontent.com/37562263/113528198-48909500-9596-11eb-90e5-ba0833af34a1.jpg)
+![mobile-02](https://user-images.githubusercontent.com/37562263/113528202-4a5a5880-9596-11eb-9cc5-a4d93a0aee50.jpg)
 
 ## Available Scripts
 
